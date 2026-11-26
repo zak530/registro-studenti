@@ -1,5 +1,30 @@
 {
+  "name": "registro-studenti",
+  "version": "0.0.1",
+  "description": "applicazione distribuita registro studenti",
+  "keywords": [
+    "zakaria",
+    "dady",
+    "rota"
+  ],
+  "homepage": "https://github.com/zak530/registro-studenti#readme",
+  "bugs": {
+    "url": "https://github.com/zak530/registro-studenti/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zak530/registro-studenti.git"
+  },
+  "license": "ISC",
+  "author": "el haiki zakaria",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js"
+  },
   "dependencies": {
     "express": "^5.3.0"
-  }
+  },
+  "devDependencies": {}
 }
